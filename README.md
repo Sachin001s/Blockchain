@@ -1,10 +1,8 @@
+<img src="hardhat.jpg" align="right" width="200px" height="250px"/>
 
-![Logo](https://st4.depositphotos.com/16552764/20957/v/450/depositphotos_209572350-stock-illustration-block-chain-logo-illustration-block.jpg)
+# Blockchain Project       &nbsp; ![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-B-%23F8C517)
 
-
-# Blockchain Project
-
-This is a readme file for the Blockchain project implemented in JavaScript. The project aims to create a basic blockchain and a cryptocurrency using JavaScript.
+> This is a readme file for the Blockchain project implemented in JavaScript. The project aims to create a basic blockchain and a cryptocurrency using JavaScript.
 
 
 ## Prerequisites
