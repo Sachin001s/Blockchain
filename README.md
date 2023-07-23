@@ -1,4 +1,4 @@
-<img src="hardhat.jpg" align="right" width="200px" height="250px"/>
+<img src="Blockchain1.png" align="right" width="250px" height="300px"/>
 
 # Blockchain Project       &nbsp; ![Static Badge](https://img.shields.io/badge/BLOCKCHAIN-B-%23F8C517)
 
@@ -37,6 +37,11 @@ Install dependencies:
 - npm install
 Run the application:
 - node blockchainapp.js
+
+![Screenshot 2023-07-23 211505](https://github.com/Sachin001s/Blockchain/assets/128379424/046e7621-dda0-4a05-aa02-d353a0ad25d7)
+
+
+![Screenshot 2023-07-23 211543](https://github.com/Sachin001s/Blockchain/assets/128379424/7b354eb3-3504-4be6-bbf4-ca08c3c55fec)
 
 ## Usage
 The Blockchain project provides a basic implementation of a blockchain and a cryptocurrency. The block.js file contains the Block class with properties like index, timestamp, data, previous hash, and hash. The blockchain.js file contains the Blockchain class with methods for adding blocks to the chain, validating the chain, and replacing the chain. The crypto-hash.js file implements a simple cryptographic hash function.
